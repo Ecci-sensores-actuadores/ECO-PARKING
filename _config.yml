@@ -20,7 +20,7 @@ title: Eco-Parking
 ###############################################
 
 navbar-links:
- 3ANS: "3ANS"
+ #3ANS: "3ANS"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://ecci-sensores-actuadores.github.io/ECO-PARKING/"
+url-pretty: "3ANS"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
