@@ -15,7 +15,9 @@ Proyecto:
 
 ![9726f241-a47a-43cf-8c8a-7acbee7c2484](https://github.com/Ecci-sensores-actuadores/ECO-PARKING/assets/132111417/567694f6-3482-44f4-bebd-01bc7eca4995)
 
-![video](https://streamable.com/xmsfqe)
+![](https://github.com/Ecci-sensores-actuadores/ECO-PARKING/assets/132111417/918ec889-9048-4139-8ffa-251ffc8be253)
+
+
 
 
 
