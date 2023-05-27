@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: proyecto final 3er corte 
+subtitle: funcinamiento del protyecto 
 comments: true
 ---
 
@@ -26,7 +23,9 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![9c3fafbb-2e13-4393-b47a-f88f0b6cb80f](https://github.com/Ecci-sensores-actuadores/ECO-PARKING/assets/132111417/c9ffd7aa-80d0-4d95-a8a0-253790e75429)
+
+
 
 It can also be centered!
 
