@@ -3,7 +3,7 @@ layout: post
 title: Costo y materiales 
 #subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
+thumbnail-img: /Users/windows/Downloads/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
 share-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
 
 ---
