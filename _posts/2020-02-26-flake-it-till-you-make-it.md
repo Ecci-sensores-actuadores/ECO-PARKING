@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Costo y materiales 
+#subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
 share-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
 
 ---
+el Funcionamiento principal es utilizar energia limpia y renovable para una mejor calidad en el medio ambiente ya que este proyecto desea conservar la naruraleza 
 
 | Materiales  | Cantidad | Costos |
 | :------ |:--- | :--- |
