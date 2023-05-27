@@ -20,3 +20,5 @@ el Funcionamiento principal es utilizar energia limpia y renovable para una mejo
 | panel solar | 1 | 28.000 |
 | poleas | 1 | 300|
 | total | 29 | 1,024,900|
+
+![WhatsApp-Image-2023-05-27-at-2 35 35-PM](https://github.com/Ecci-sensores-actuadores/ECO-PARKING/assets/132111417/407042de-cb1e-4894-bfab-9b6fe8105a52)
