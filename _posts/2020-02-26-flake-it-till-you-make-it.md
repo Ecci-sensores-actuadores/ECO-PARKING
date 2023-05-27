@@ -2,9 +2,9 @@
 layout: post
 title: Costo y materiales 
 #subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-windows: /windows/Downloads/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
-share-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
+#cover-img: /assets/img/path.jpg
+#thumbnail-windows: /windows/Downloads/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
+#share-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
 
 ---
 el Funcionamiento principal es utilizar energia limpia y renovable para una mejor calidad en el medio ambiente ya que este proyecto desea conservar la naruraleza 
