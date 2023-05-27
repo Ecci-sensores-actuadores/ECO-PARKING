@@ -5,7 +5,7 @@ subtitle: funcinamiento del protyecto
 comments: true
 ---
 
-En este apartado prodra encontrar nuestro proyecto terminado y con su funcionamiento 
+En este apartado prodra encontrar nuestro proyecto terminado.
 
 Proyecto:
 
