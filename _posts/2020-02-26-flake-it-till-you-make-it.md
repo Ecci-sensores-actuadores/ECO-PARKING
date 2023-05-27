@@ -4,7 +4,7 @@ title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: ![WhatsApp-Image-2023-05-27-at-2 35 35-PM](https://github.com/Ecci-sensores-actuadores/ECO-PARKING/assets/132111417/44f762f7-b3ec-42de-9ca8-f68fbb29790e)
+share-img: /assets/img/WhatsApp-Image-2023-05-27-at-2.35.35-PM.jpg
 
 ---
 
