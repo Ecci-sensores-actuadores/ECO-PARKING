@@ -1,7 +1,7 @@
 ---
 layout: post
 title: proyecto final 3er corte 
-subtitle: funcinamiento del protyecto 
+subtitle: Funcionamiento del proyecto 
 comments: true
 ---
 
